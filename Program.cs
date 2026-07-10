@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+// Sistema de Ventas desarrollado para el Proyecto Integrador
 class Program
 {
     static double totalVentasDia = 0;
